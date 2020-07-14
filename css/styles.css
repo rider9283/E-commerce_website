@@ -1,0 +1,121 @@
+.container{
+    width: 100%;
+    
+}
+body{
+    font-family: 'Montserrat-Black', sans-serif;
+    text-align: center;
+}
+.top-heading{
+    color: rgb(8, 8, 8);
+}
+/* .intro-photo{
+    height: ;
+} */
+#title{
+    background-color: rgb(148, 129, 250);
+    /* background-color: rgb(173, 241, 105); */
+}
+.navbar-dark .navbar-nav .nav-link{
+    color: rgb(32, 24, 26);
+    font-size: 1.2rem;
+    font-family: 'Montserrat-Light', sans-serif;
+
+}
+.intro-photo{
+}
+.shop-link:active{
+ text-decoration: none;
+}
+.nav-item{
+    padding: 0 18px;
+}
+
+.top-heading{
+    font-family: 'Montserrat-Black', sans-serif;
+    font-size: 3rem;
+    line-height: 1.5;
+    font-weight: bolder;
+    color: rgb(62, 8, 112);;
+}
+.deals{
+    font-family: 'Allerta', sans-serif;
+
+   
+}
+.deals-product{
+    font-family: 'Days One', sans-serif;
+}
+.container-fluid{
+    /* padding: 3% 15%; */
+}
+.navbar-dark .navbar-brand{
+    font-family: 'Julius Sans One', sans-serif;
+    color: rgb(129, 17, 235);
+    font-weight: bolder;
+    /* size: 20px; */
+    font-size: 1.5rem;
+}
+.download-button{
+    margin: 10px 10px 9px 0;
+}
+
+.key-points{
+    padding: 20px 30px 20px 30px;
+}
+.feature-img{
+    margin: auto;
+}
+.featuret{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+#offers{
+    padding: 7% 15%;
+    background-color: rgb(179, 169, 238);
+}
+.shop-categories{
+margin: 90px 0;
+font-weight: bold;
+font-size: 50px;
+}
+.card-img{
+    margin-bottom: 20px;
+}
+#cta{
+    background-color: rgb(161, 145, 250);
+    height: 200px;
+
+}
+.icons{
+    display: block;
+}
+.social-media{
+    width: 20px;
+    height: 20px;
+   margin: 0 6px;
+}
+.shop-now{
+    font-weight: bold;
+    font-size: 40px;
+    margin-bottom: 10px;
+    font-family: 'Krona One', sans-serif;
+    
+}
+.premium-head{
+    background-color:  rgb(65, 48, 161);
+    font-family: 'Montserrat-Black', sans-serif;
+    font-weight: bolder;
+    height: 1000px;
+}
+.men{
+    font-family: 'Montserrat-Black', sans-serif;
+    font-weight: bolder;
+}
+.item-price{
+    font-family: 'Krona One', sans-serif;
+    
+}
+.item-img{
+    margin: 20px 0;
+}
